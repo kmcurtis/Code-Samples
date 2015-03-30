@@ -1,0 +1,97 @@
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 16
+Execution time of Insertion Sort on file input_2_4.txt with 16 elements took 9108ns
+Execution time of Merge Sort on file input_2_4.txt with 16 elements took 18103ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 32
+Execution time of Insertion Sort on file input_2_5.txt with 32 elements took 12762ns
+Execution time of Merge Sort on file input_2_5.txt with 32 elements took 32651ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 64
+Execution time of Insertion Sort on file input_2_6.txt with 64 elements took 35422ns
+Execution time of Merge Sort on file input_2_6.txt with 64 elements took 62626ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 128
+Execution time of Insertion Sort on file input_2_7.txt with 128 elements took 184571ns
+Execution time of Merge Sort on file input_2_7.txt with 128 elements took 126321ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 256
+Execution time of Insertion Sort on file input_2_8.txt with 256 elements took 542801ns
+Execution time of Merge Sort on file input_2_8.txt with 256 elements took 273092ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 512
+Execution time of Insertion Sort on file input_2_9.txt with 512 elements took 3441545ns
+Execution time of Merge Sort on file input_2_9.txt with 512 elements took 846761ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 1024
+Execution time of Insertion Sort on file input_2_10.txt with 1024 elements took 5258261ns
+Execution time of Merge Sort on file input_2_10.txt with 1024 elements took 1554799ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 2048
+Execution time of Insertion Sort on file input_2_11.txt with 2048 elements took 12374140ns
+Execution time of Merge Sort on file input_2_11.txt with 2048 elements took 3602763ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 4096
+Execution time of Insertion Sort on file input_2_12.txt with 4096 elements took 19898482ns
+Execution time of Merge Sort on file input_2_12.txt with 4096 elements took 6812206ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 8192
+Execution time of Insertion Sort on file input_2_13.txt with 8192 elements took 48198672ns
+Execution time of Merge Sort on file input_2_13.txt with 8192 elements took 11512638ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 16384
+Execution time of Insertion Sort on file input_2_14.txt with 16384 elements took 170072225ns
+Execution time of Merge Sort on file input_2_14.txt with 16384 elements took 10102910ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 32768
+Execution time of Insertion Sort on file input_2_15.txt with 32768 elements took 626452135ns
+Execution time of Merge Sort on file input_2_15.txt with 32768 elements took 13330549ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 65536
+Execution time of Insertion Sort on file input_2_16.txt with 65536 elements took 2469251299ns
+Execution time of Merge Sort on file input_2_16.txt with 65536 elements took 18439007ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 131072
+Execution time of Insertion Sort on file input_2_17.txt with 131072 elements took 9888623065ns
+Execution time of Merge Sort on file input_2_17.txt with 131072 elements took 29193055ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 262144
+Execution time of Insertion Sort on file input_2_18.txt with 262144 elements took 39698103694ns
+Execution time of Merge Sort on file input_2_18.txt with 262144 elements took 51535872ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 16
+Execution time of Insertion Sort on file input_2_4.txt with 16 elements took 6752ns
+Execution time of Merge Sort on file input_2_4.txt with 16 elements took 22010ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 64
+Execution time of Insertion Sort on file input_2_6.txt with 64 elements took 48809ns
+Execution time of Merge Sort on file input_2_6.txt with 64 elements took 60160ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 128
+Execution time of Insertion Sort on file input_2_7.txt with 128 elements took 226158ns
+Execution time of Merge Sort on file input_2_7.txt with 128 elements took 183131ns
+Choose a file to run Merge Sort on by entering one of the numbers from to select the corresponding file: 
+File Number List: Pick a number ranging from 4 - 24
+List size is 256
+Execution time of Insertion Sort on file input_2_8.txt with 256 elements took 595600ns
+Execution time of Merge Sort on file input_2_8.txt with 256 elements took 379666ns

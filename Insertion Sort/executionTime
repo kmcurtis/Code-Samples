@@ -1,0 +1,17 @@
+1- Execution time of Insertion Sort on file input1.txt with 128 elments took: 146314ns
+
+2-Execution time of Insertion Sort on file input2.txt with 256 elments took: 581465ns
+
+3-Execution time of Insertion Sort on file input3.txt with 512 elments took: 2839079ns
+
+4-Execution time of Insertion Sort on file input4.txt with 1000 elments took: 5010569ns
+
+5-Execution time of Insertion Sort on file input5.txt with 2000 elments took: 16881118ns
+
+6-Execution time of Insertion Sort on file input6.txt with 4000 elments took: 19118408ns
+
+7-Execution time of Insertion Sort on file input7.txt with 8000 elments took: 37387145ns
+
+8-Execution time of Insertion Sort on file input8.txt with 10000 elments took: 98852161ns
+
+9-Execution time of Insertion Sort on file input9.txt with 100000 elments took: 5778465067ns
