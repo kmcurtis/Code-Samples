@@ -1,4 +1,3 @@
-
 public class GameOfLife extends UpdateBoard {
 	
 	public static void main(String[] args) {
